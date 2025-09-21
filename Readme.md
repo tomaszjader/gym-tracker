@@ -1,1 +1,1 @@
-Prosty traker progeresu na siłowni
+Prosty traker progeresu na siłowni nappiasny w Angularze
