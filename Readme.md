@@ -1,4 +1,4 @@
-# 💪 GymTracker
+# 💪 GymTracker 
 
 **Nowoczesna aplikacja do śledzenia postępów treningowych na siłowni**
 
